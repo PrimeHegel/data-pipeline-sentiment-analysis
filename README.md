@@ -41,7 +41,7 @@ Orchestration oleh **Apache Airflow** (CeleryExecutor), berjalan di Docker.
 
 ## Dataset
 
-- Source: [Tokopedia Reviews — Kaggle](https://www.kaggle.com/)
+- Source: [Lazada Indonesian Reviews — Kaggle](https://www.kaggle.com/datasets/grikomsn/lazada-indonesian-reviews)
 - File: `20191002-reviews.csv` + `20191002-items.csv`
 - Filtered: kategori `beli-harddisk-eksternal`, 3.000 data teratas
 - Label sentimen diturunkan dari rating: **Positif** (>3), **Netral** (=3), **Negatif** (<3)
