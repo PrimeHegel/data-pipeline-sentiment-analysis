@@ -130,7 +130,7 @@ Dashboard akan terbuka di `http://localhost:8501`.
 ### Modelling (Naive Bayes)
 - Feature extraction: TF-IDF (max 5.000 features)
 - Classifier: Multinomial Naive Bayes
-- Training dan prediksi pada data yang sama (unsupervised labelling dari rating)
+- Klasifikasi sentimen menggunakan unsupervised labelling dengan acuan rating bintang sebagai ground truth
 - Status tiap row (`Match` / `Misclassified`) dan accuracy score disimpan ke `sentiment_results`
 
 ---
