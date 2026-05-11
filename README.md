@@ -76,7 +76,7 @@ Data Flow/
 ### Prerequisites
 - Docker Desktop
 - Python 3.10+
-- MySQL (port 3307)
+- MySQL
 
 ### 1. Initialize Database Schema
 
