@@ -1,0 +1,9 @@
+pandas==2.2.2
+mysql-connector-python==8.4.0
+scikit-learn==1.4.2
+Sastrawi==1.0.1
+streamlit==1.35.0
+plotly==5.22.0
+wordcloud==1.9.3
+matplotlib==3.9.0
+apache-airflow==2.8.1
