@@ -148,5 +148,5 @@ Dashboard akan terbuka di `http://localhost:8501`.
 
 ## Notes
 
-- Pipeline ini menggunakan **unsupervised labelling** — ground truth diturunkan dari rating bintang, bukan anotasi manual.
+- Pipeline ini menggunakan automated rule-based labelling (berdasarkan rating bintang) — ground truth diturunkan dari rating bintang, bukan anotasi manual.
 - Misclassified rows umumnya merupakan *noisy labels*: ulasan dengan rating tinggi tapi berisi keluhan, atau sebaliknya.
